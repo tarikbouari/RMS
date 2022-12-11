@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  reservation_time: 1
+  number_of_people: 1
+
+two:
+  reservation_time: 1
+  number_of_people: 1
