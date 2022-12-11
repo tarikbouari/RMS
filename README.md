@@ -1,1 +1,1 @@
-# RMS
+# RMS (Retaurant Management systems)
